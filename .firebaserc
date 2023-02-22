@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "getstream-chatapp": {
+      "hosting": {
+        "getStream-ChatApp": [
+          "getstream-chatapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "getstream-chatapp"
+  }
+}
